@@ -37,7 +37,7 @@ API for banking system, built during Ignite.
 ## :sparkles: Features
 
 :heavy_check_mark: Deve ser possível criar uma conta.\
-:heavy_multiplication_x: Deve ser possível buscar o extrato bancário.\
+:heavy_check_mark: Deve ser possível buscar o extrato bancário.\
 :heavy_multiplication_x: Deve ser possível realizar um deposito.\
 :heavy_multiplication_x: Deve ser possível realizar um saque.\
 :heavy_multiplication_x: Deve ser possível buscar o extrato bancário por data.\
