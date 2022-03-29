@@ -32,22 +32,22 @@ Status
 
 ## :dart: About
 
-FinApi
+API for banking system, built during Ignite.
 
 ## :sparkles: Features
 
 :heavy_check_mark: Deve ser possível criar uma conta.\
-:heavy_check_mark: Deve ser possível buscar o extrato bancário.\
-:heavy_check_mark: Deve ser possível realizar um deposito.\
-:heavy_check_mark: Deve ser possível realizar um saque.\
-:heavy_check_mark: Deve ser possível buscar o extrato bancário por data.\
-:heavy_check_mark: Deve ser possível atualizar dados da conta.\
-:heavy_check_mark: Deve ser possível obter dados da conta.\
-:heavy_check_mark: Deve ser possível deletar a conta.
+:heavy_multiplication_x: Deve ser possível buscar o extrato bancário.\
+:heavy_multiplication_x: Deve ser possível realizar um deposito.\
+:heavy_multiplication_x: Deve ser possível realizar um saque.\
+:heavy_multiplication_x: Deve ser possível buscar o extrato bancário por data.\
+:heavy_multiplication_x: Deve ser possível atualizar dados da conta.\
+:heavy_multiplication_x: Deve ser possível obter dados da conta.\
+:heavy_multiplication_x: Deve ser possível deletar a conta.
 
 ## :rocket: Technologies
 
-API for banking system, built during Ignite.
+The following tools were used in this project:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
@@ -80,7 +80,7 @@ This project is under license from MIT. For more details, see the [LICENSE](LICE
 
 Made with :heart: by <a href="https://github.com/tarcisiodelmondes" target="_blank">Tarcísio Delmondes</a>
 
-<br/> [![Linkedin Badge](https://img.shields.io/badge/-TarcísioDelmondes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisio-delmondes-892567207)](https://www.linkedin.com/in/tarcisiodelmondes)
+[![Linkedin Badge](https://img.shields.io/badge/-TarcísioDelmondes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisio-delmondes-892567207)](https://www.linkedin.com/in/tarcisiodelmondes)
 
 &#xa0;
 
