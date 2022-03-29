@@ -10,12 +10,6 @@
   <img alt="License" src="https://img.shields.io/github/license/tarcisiodelmondes/finapi?color=%2356BEB8">
 </p>
 
-Status
-
- <h4 align="center">
-	🚧  Finapi 🚀 Under construction...  🚧
-</h4>
-
 <hr>
 
 <p align="center">
@@ -43,7 +37,7 @@ API for banking system, built during Ignite.
 :heavy_check_mark: Deve ser possível buscar o extrato bancário por data.\
 :heavy_check_mark: Deve ser possível atualizar dados da conta.\
 :heavy_check_mark: Deve ser possível obter dados da conta.\
-:heavy_multiplication_x: Deve ser possível deletar a conta.
+:heavy_check_mark: Deve ser possível deletar a conta.
 
 ## :rocket: Technologies
 
