@@ -7,7 +7,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tarcisiodelmondes/finapi?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/tarcisiodelmondes/finapi?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/tarcisiodelmondes/finapi?color=%2356BEB8">
 </p>
 
 Status
